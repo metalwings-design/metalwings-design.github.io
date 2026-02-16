@@ -1,2 +1,2 @@
-# metalwings-design.github.io
+# metalwings.github.io
 My portfolio and profile site
