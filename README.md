@@ -10,7 +10,7 @@ Applied Economist and Data Analyst with experience in econometrics, spatial anal
 
 ## Skills
 - R, Python, SQL
-- Econometrics & Causal Inference
+- Econometrics
 - Data Analysis & Visualization
 - Spatial Analysis (QGIS)
 - Data scraping
